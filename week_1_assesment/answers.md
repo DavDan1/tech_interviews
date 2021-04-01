@@ -15,3 +15,5 @@ arr[1][:color]
 cals Car
 do paint
 end
+
+#have a nice weekend!
